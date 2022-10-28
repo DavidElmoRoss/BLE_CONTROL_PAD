@@ -1,0 +1,6 @@
+^BUILD$
+^.mbed$
+^.clangd$
+^mbed$
+^.cache$
+^compile_commands.json$

@@ -8,7 +8,7 @@
                     when pressed. The string is of format  ['1']['B'] as the
                     starting two characters. After this is the button number
                     such as ['4'] for button 4. The next character will be 
-                    ['0'] if the button was pressed, and ['1'] if the button
+                    ['1'] if the button was pressed, and ['0'] if the button
                     is released.
                     For the arrows, the up arrow is button ['5']
                                     the dn arrow is button ['6']
